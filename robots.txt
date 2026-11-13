@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /api/
-Disallow: /data/
-Sitemap: https://trinityhomecare.in/sitemap.xml
